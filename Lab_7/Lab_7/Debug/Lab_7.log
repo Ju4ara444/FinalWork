@@ -1,3 +1,8 @@
 ﻿  Lab_7.c
+<<<<<<< HEAD
 C:\Users\Admin\OneDrive\Рабочий стол\пгу\програмирование\свои работы\лабы программирование\лаба 7\Lab_7\Lab_7\Lab_7.c(18,11): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
   Lab_7.vcxproj -> C:\Users\Admin\OneDrive\Рабочий стол\пгу\програмирование\свои работы\лабы программирование\лаба 7\Lab_7\Debug\Lab_7.exe
+=======
+D:\it_in_pa\FinalWork\Lab_7\Lab_7\Lab_7.c(18,11): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Lab_7.vcxproj -> D:\it_in_pa\FinalWork\Lab_7\Debug\Lab_7.exe
+>>>>>>> Jukov

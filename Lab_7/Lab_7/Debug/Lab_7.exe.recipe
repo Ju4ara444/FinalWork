@@ -2,7 +2,11 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+<<<<<<< HEAD
       <FullPath>C:\Users\Admin\OneDrive\Рабочий стол\пгу\програмирование\свои работы\лабы программирование\лаба 7\Lab_7\Debug\Lab_7.exe</FullPath>
+=======
+      <FullPath>D:\it_in_pa\FinalWork\Lab_7\Debug\Lab_7.exe</FullPath>
+>>>>>>> Jukov
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

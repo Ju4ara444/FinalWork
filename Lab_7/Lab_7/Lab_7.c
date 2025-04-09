@@ -12,7 +12,11 @@ void rvs(char* str) {
 
 
 int main() {
+<<<<<<< HEAD
     char str[100], slovo[] = "slovooo", result[200] = "";
+=======
+    char str[100], slovaaaaaa[] = "slovooo", result[200] = "";
+>>>>>>> Jukov
     int prcount = 0;
 
     system("chcp 1251");
@@ -27,7 +31,11 @@ int main() {
         strcat(result, token);
         strcat(result, " ");
         if (++prcount == 2) {
+<<<<<<< HEAD
             strcat(result, slovo);
+=======
+            strcat(result, slovaaaaaa);
+>>>>>>> Jukov
             strcat(result, " ");
         }
         token = strtok(NULL, " ");
