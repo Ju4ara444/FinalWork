@@ -15,6 +15,17 @@ void rvs(char* str) {
 int main() {
     char str[100], slovaaaaaa[] = "slovooo", result[200] = "";
     int prcount = 0;
+    
+   
+    int numbers[10];
+    srand(time(0)); // Инициализация генератора случайных чисел
+    
+    printf("Массив из 10 случайных чисел от -10 до 40:\n");
+    for (int i = 0; i < 10; i++) {
+        numbers[i] = rand() % 51 - 10; // Генерация числа от -10 до 40
+        printf("%d ", numbers[i]);
+    }
+    printf("\n\n");
 
     // Объявление и инициализация массива из 10 элементов в пределах от -10 до 40
     int numbers[10];
